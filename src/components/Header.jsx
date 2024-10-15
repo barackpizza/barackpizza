@@ -7,7 +7,7 @@ export default function Header() {
     <header className='bg-white fixed top-0 left-0 z-10 w-full h-header-height'>
       <Container className={`flex justify-between items-center h-full`}>
         <Logo />
-				<WhatsAppButton phone={import.meta.env.VITE_WHATSAPP_PHONE} />
+        <WhatsAppButton phone={import.meta.env.VITE_WHATSAPP_PHONE} />
       </Container>
     </header>
   )
