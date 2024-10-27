@@ -67,9 +67,9 @@ export default function Home() {
 					</div>
 					<div className='overflow-hidden rounded-md'>
 						<img
-							src="https://img.freepik.com/foto-gratis/conductor-masculino-guapo-trabajador-feliz-scooter-casco-rojo-entregando-pizza_273609-31429.jpg?t=st=1727488287~exp=1727491887~hmac=dfc6c6e55c4d5fa15755970ed6ee9decf1292fa554e0bb36fbfe733eabb6f6f0&w=996"
+							src="https://ik.imagekit.io/88up9y9qq/barackpizza/pizza-delivery.jpg"
 							alt="Domicilio"
-							className='rounded-md hover:scale-110 transition-all'
+							className='rounded-md hover:scale-110 transition-all aspect-video'
 						/>
 					</div>
 				</Container>

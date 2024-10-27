@@ -1,7 +1,7 @@
 [
 	{
 		"id": "ffd44d5d-ca20-439f-a794-2a1133bb841c",
-		"img": "https://images.pexels.com/photos/17907810/pexels-photo-17907810/free-photo-of-pizza-comida-fresco-vista-superior.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"img": "https://ik.imagekit.io/88up9y9qq/barackpizza/pizza-jamon.jpg",
 		"flavor": "Jamón y queso",
 		"ingredients": ["Jamón de cerdo", "Queso", "Salsa artesanal"],
 		"availableEveryDay": true,
@@ -9,7 +9,7 @@
 	},
 	{
 		"id": "5c5b96d8-c340-4fd5-a263-f640a6b3557d",
-		"img": "https://images.pexels.com/photos/17907810/pexels-photo-17907810/free-photo-of-pizza-comida-fresco-vista-superior.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"img": "https://ik.imagekit.io/88up9y9qq/barackpizza/pizza-hawaiana.jpg?updatedAt=1730048691043",
 		"flavor": "Hawaiana",
 		"ingredients": ["Piña", "Jamón de cerdo", "Queso"],
 		"availableEveryDay": true,
@@ -17,7 +17,7 @@
 	},
 	{
 		"id": "7c072d00-edb6-4199-8987-f2153f3dc166",
-		"img": "https://images.pexels.com/photos/17907810/pexels-photo-17907810/free-photo-of-pizza-comida-fresco-vista-superior.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"img": "https://dummyimage.com/921x691/fff/aaa",
 		"flavor": "Pollo",
 		"ingredients": ["Pollo", "Queso", "Maíz"],
 		"availableEveryDay": false,
@@ -25,7 +25,7 @@
 	},
 	{
 		"id": "83193640-f624-4910-b92a-ef86de08eca0",
-		"img": "https://images.pexels.com/photos/17907810/pexels-photo-17907810/free-photo-of-pizza-comida-fresco-vista-superior.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"img": "https://dummyimage.com/921x691/fff/aaa",
 		"flavor": "Ranchera",
 		"ingredients": ["Salchica ranchera", "Queso", "Maíz"],
 		"availableEveryDay": false,

@@ -18,7 +18,8 @@ export default {
 				'text-color': '#62646A',
 			},
 			backgroundImage: {
-				'hero-home': "url('/src/assets/hero-home.jpg')",
+				// 'hero-home': "url('/src/assets/hero.jpg')",
+				'hero-home': "url('https://ik.imagekit.io/88up9y9qq/barackpizza/pizza-hero.jpg')",
 			}
 		},
 	},
